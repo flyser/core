@@ -39,4 +39,6 @@
 	</thead>
 	<tbody id="fileList">
 	</tbody>
+	<tfoot>
+	</tfoot>
 </table>

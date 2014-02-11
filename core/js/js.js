@@ -1135,6 +1135,15 @@ function relative_modified_date(timestamp) {
 }
 
 /**
+ * Utilitz functions
+ */
+OC.Util = {
+	// TODO: remove original functions from global namespace
+	humanFileSize: humanFileSize,
+	formatDate: formatDate
+}
+
+/**
  * get a variable by name
  * @param string name
  */
