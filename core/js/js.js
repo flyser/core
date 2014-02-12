@@ -1135,7 +1135,7 @@ function relative_modified_date(timestamp) {
 }
 
 /**
- * Utilitz functions
+ * Utility functions
  */
 OC.Util = {
 	// TODO: remove original functions from global namespace
